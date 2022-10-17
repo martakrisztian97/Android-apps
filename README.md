@@ -1,2 +1,2 @@
-# MIT-App-Inventor-apps
-Android apps created with MIT App Inventor.
+# Android-apps
+Android apps created with MIT App Inventor or Android Studio, and other Android apps.
