@@ -7,13 +7,15 @@
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: #6c757d;
-    color: white;
+    background-color: #d4edda;
+    color: #155724;
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
 }
 
 #myBtn:hover {
-    background-color: #555;
+    background-color: #28a745;
+    color: #d4edda;
+    font-weight: bold;
 }
