@@ -9,7 +9,7 @@ body {
 }
 
 .div-card-bg {
-    background-color: rgba(28, 28, 35, 0.8);
+    background-color: #28a745;
 }
 
 .card-title-color {
@@ -17,8 +17,6 @@ body {
 }
 
 footer {
-    background-color: #6c757d;
-    color: white;
     font-style: italic;
     text-align: center;
 }
